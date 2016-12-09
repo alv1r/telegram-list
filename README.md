@@ -153,6 +153,8 @@
 * [Hyper-V](https://telegram.me/ru_hyper) — Чат про Hyper-V
 * [openstack_russia](https://telegram.me/openstack_russia) — Чат про OpenStack (альтернативный)
 * [ru_freeswitch](https://telegram.me/ru_freeswitch) — Чат про Freeswitch
+* [pro.telecom](https://telegram.me/protelecom) — Чат про Телеком.
+* [SPb IT people](https://telegram.me/spbitppl) — Чат Петербургских айтишников.
 * [Трактор over IP](https://telegram.me/ntwrk) — Чат сетевых инженеров
 * [Nag.Ru](https://telegram.me/nag_public) — Чат Nag.ru
 * [Mikrotik.Ru](https://telegram.me/MikrotikRu) — Чат про Микротики
@@ -215,6 +217,9 @@
 * [ru-board group](https://telegram.me/ru_board) — Группа популярного форума Ru-Board
 * [QA](https://telegram.me/qa_ru) — Чат русскоязычного сообщества тестировщиков
 * [Freelancers & Remote workers](https://telegram.me/ru_freelancers) — Чат практикующих и интересующихся удаленной работой и самозанятостью
+* [pro.embedded](https://telegram.me/proembedded) — Чат про встраиваемые системы и электронику.
+* [pro.games](https://telegram.me/progames_ru)  — Чат про игры.
+* [pro.moto](https://telegram.me/moto_ru)  — Чат про эндуро мотоциклистов.
 * [P2P, Mesh, Cryptocurrency, etc.](https://telegram.me/distributed) — Криптовалюты, p2p, mesh и другие средства личной свободы
 * [Политика](https://telegram.me/ru_politics) — Политические обсуждения
 * [Философия](https://telegram.me/ru_philosophy) — Философское кафе
