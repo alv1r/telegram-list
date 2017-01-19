@@ -121,6 +121,7 @@
 * [Golang RU](https://t.me/gogolang) — Чат про Golang
 * [Haskell](https://t.me/haskellru) — Чат про Haskell
 * [pro.js](https://t.me/JSlang) — Чат про JavaScript
+* [1c](https://t.me/ru_1c)  — 1с. Вопросы программирования и администрирования.
 * [pro.js.noobs](https://t.me/joinchat/Be4rsT3Uyr1TjmSlrRc77g) — Чат про JavaScript (для новичков)
 * [pro.jvm](https://t.me/jvmchat) — Чат про JVM
 * [Scala](https://t.me/scala_ru) — Чат про Scala
